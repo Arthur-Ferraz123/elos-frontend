@@ -2,7 +2,7 @@
 
 /* Hero personalização*/
 .hero{
-    background-image: url("assets\img\imgHero.jpg");
+    background-image: url("../assets/img/imgHero.jpg");
     background-size: cover;
     height: 100vh;
     width: 100%;
