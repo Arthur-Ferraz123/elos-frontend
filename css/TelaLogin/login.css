@@ -4,7 +4,11 @@
 header {
     background-color: var(--orange);
     color: var(--white);
-    font-size: 42px;
+    font-size: 3rem;
+    font-weight: 500;
+    display: flex;
+    padding-top: 2.375rem;
+    padding-left: 3rem;
 }
 
 .FundoLaranja {
@@ -38,8 +42,3 @@ header {
     border-radius: 10px;
     z-index: 2;
 }
-
-/*
-    - Como faço para nao deixar la em cima colado
-    - 
-*/
